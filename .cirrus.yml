@@ -1,8 +1,8 @@
 env:
     # Device
-    DT_LINK: https://github.com/Alone0316/device_mido_twrp.git
-    DEVICE: mido
-    OEM: xiaomi
+    DT_LINK: https://github.com/NRanjan-17/device_gta4l_twrp.git
+    DEVICE: gta4l
+    OEM: samsung
     TARGET: recoveryimage
 
     DT_PATH: device/$OEM/$DEVICE
