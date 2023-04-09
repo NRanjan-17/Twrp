@@ -2,11 +2,11 @@
 
 # Device
 export TW_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/Alone0316/device_mido_twrp.git"
+export DT_LINK="https://github.com/NRanjan-17/device_gta4l_twrp.git"
 export KERNEL_SOURCE=""
 
-export DEVICE="mido"
-export OEM="xiaomi"
+export DEVICE="gta4l"
+export OEM="samsung"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
